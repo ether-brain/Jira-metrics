@@ -15,4 +15,4 @@ def issue_status_history():
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=debug)
